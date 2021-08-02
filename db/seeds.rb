@@ -1,3 +1,4 @@
+  
 Coffee.destroy_all
 
 10.times do
